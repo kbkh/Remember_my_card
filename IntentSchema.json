@@ -1,0 +1,15 @@
+{"intents": [
+  	{"intent": "DELFIRST", "slots": [{"name": "delfirstn", "type": "AMAZON.NUMBER"}]},
+    {"intent": "REGTODEL"},
+  	{"intent": "TOREG"},
+  	{"intent": "FIRST", "slots": [{"name": "firstn", "type": "AMAZON.NUMBER"}]},
+  	{"intent": "SECOND", "slots": [{"name": "secondn", "type": "AMAZON.NUMBER"}]},
+  	{"intent": "THIRD", "slots": [{"name": "thirdn", "type": "AMAZON.NUMBER"}]},
+  	{"intent": "FOURTH", "slots": [{"name": "fourthn", "type": "AMAZON.NUMBER"}]},
+    {"intent": "AMAZON.YesIntent"},
+    {"intent": "AMAZON.NoIntent"},
+    {"intent": "AMAZON.HelpIntent"},
+    {"intent": "AMAZON.StopIntent"},
+    {"intent": "AMAZON.CancelIntent"}
+  ]
+}
