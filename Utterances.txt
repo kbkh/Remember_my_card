@@ -1,0 +1,127 @@
+DELFIRST Give me {delfirstn}
+DELFIRST Give me card information for card {delfirstn}
+DELFIRST Give me information for card {delfirstn}
+DELFIRST Give me information {delfirstn}
+DELFIRST Card {delfirstn}
+DELFIRST Card information {delfirstn}
+DELFIRST Give me card {delfirstn}
+DELFIRST Supply me card information for {delfirstn}
+DELFIRST Supply card information for {delfirstn}
+DELFIRST Supply information for card {delfirstn}
+DELFIRST Provide me card information for {delfirstn}
+DELFIRST Provide me with card information for {delfirstn}
+DELFIRST Provide card information for {delfirstn}
+DELFIRST Provide with card information for {delfirstn}
+DELFIRST Provide information for card {delfirstn}
+DELFIRST Provide with information for card {delfirstn}
+DELFIRST Need information for card {delfirstn}
+DELFIRST Need card information for {delfirstn}
+DELFIRST Require card information for {delfirstn}
+DELFIRST Require information for card {delfirstn}
+DELFIRST Fetch information for card {delfirstn}
+DELFIRST Fetch me information for card {delfirstn}
+DELFIRST Fetch card information for {delfirstn}
+DELFIRST Get me card information for {delfirstn}
+DELFIRST Get card information for {delfirstn}
+DELFIRST Get me information for card {delfirstn}
+REGTODEL Give me
+REGTODEL Give me card information
+REGTODEL Give me information for card
+REGTODEL Give me information 
+REGTODEL Card 
+REGTODEL Card information 
+REGTODEL Give me card 
+REGTODEL Supply me card information for 
+REGTODEL Supply card information for 
+REGTODEL Supply information for card 
+REGTODEL Provide me card information for 
+REGTODEL Provide me with card information for 
+REGTODEL Provide card information for 
+REGTODEL Provide with card information for 
+REGTODEL Provide information for card 
+REGTODEL Provide with information for card 
+REGTODEL Need information for card 
+REGTODEL Need card information for 
+REGTODEL Require card information for 
+REGTODEL Require information for card 
+REGTODEL Fetch information for card 
+REGTODEL Fetch me information for card 
+REGTODEL Fetch card information for 
+REGTODEL Get me card information for 
+REGTODEL Get card information for 
+REGTODEL Get me information for card 
+TOREG register 
+TOREG register card 
+TOREG register card information 
+TOREG register information for card 
+TOREG register information 
+TOREG add 
+TOREG add card 
+TOREG add information 
+TOREG add card information 
+TOREG add inforamtion for card 
+TOREG record 
+TOREG record card 
+TOREG record information 
+TOREG record card information 
+TOREG record inforamtion for card  
+FIRST my digits are {firstn}
+FIRST digits are {firstn}
+FIRST digits {firstn}
+FIRST digit {firstn}
+FIRST my number is {firstn}
+FIRST numbers are {firstn}
+FIRST number is {firstn}
+FIRST numbers {firstn}
+FIRST number {firstn}
+FIRST my numbers are {firstn}
+FIRST {firstn}
+FIRST my first numbers are {firstn}
+FIRST my first digits are {firstn}
+FIRST my four first digits are {firstn}
+FIRST my four first numbers are {firstn}
+SECOND my digits are {secondn}
+SECOND digits are {secondn}
+SECOND digits {secondn}
+SECOND digit {secondn}
+SECOND my number is {secondn}
+SECOND numbers are {secondn}
+SECOND number is {secondn}
+SECOND numbers {secondn}
+SECOND number {secondn}
+SECOND my numbers are {secondn}
+SECOND {secondn}
+SECOND my second numbers are {secondn}
+SECOND my second digits are {secondn}
+SECOND my four second digits are {secondn}
+SECOND my four second numbers are {secondn}
+THIRD my digits are {thirdn}
+THIRD digits are {thirdn}
+THIRD digits {thirdn}
+THIRD digit {thirdn}
+THIRD my number is {thirdn}
+THIRD numbers are {thirdn}
+THIRD number is {thirdn}
+THIRD numbers {thirdn}
+THIRD number {thirdn}
+THIRD my numbers are {thirdn}
+THIRD {thirdn}
+THIRD my third numbers are {thirdn}
+THIRD my third digits are {thirdn}
+THIRD my four third digits are {thirdn}
+THIRD my four third numbers are {thirdn}
+FOURTH my digits are {fourthn}
+FOURTH digits are {fourthn}
+FOURTH digits {fourthn}
+FOURTH digit {fourthn}
+FOURTH my number is {fourthn}
+FOURTH numbers are {fourthn}
+FOURTH number is {fourthn}
+FOURTH numbers {fourthn}
+FOURTH number {fourthn}
+FOURTH my numbers are {fourthn}
+FOURTH {fourthn}
+FOURTH my fourth numbers are {fourthn}
+FOURTH my fourth digits are {fourthn}
+FOURTH my four fourth digits are {fourthn}
+FOURTH my four fourth numbers are {fourthn}
